@@ -55,7 +55,4 @@ while switch:
         print(f'Ganancias 💰: {ganancia}')
     else:
         bebida = MENU[eleccion]
-        hay_recurso_suficiente(bebida["ingredientes"])
-
-
-    
+        #if hay_recurso_suficiente(bebida["ingredientes"]):
